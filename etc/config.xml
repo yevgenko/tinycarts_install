@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<config>
+    <global>
+        <models>
+            <install>
+                <rewrite>
+                  <installer>Tinycarts_Install_Model_Installer</installer>
+                </rewrite>
+            </install>
+        </models>
+    </global>
+</config>
